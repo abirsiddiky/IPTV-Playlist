@@ -35,24 +35,24 @@ This makes it easy to switch servers inside any IPTV player if the primary strea
 
 ## How to Use
 
+**Playlist URL**
+```
+https://raw.githubusercontent.com/abirsiddiky/IPTV-Playlist/main/merged_playlist.m3u
+```
+
 **VLC**
 ```
-Media → Open Network Stream → paste raw URL of merged_playlist.m3u
+Media → Open Network Stream → paste the URL above
 ```
 
 **Kodi / IPTV Simple Client**
 ```
-Settings → PVR & Live TV → IPTV Simple Client → M3U Playlist URL
+Settings → PVR & Live TV → IPTV Simple Client → M3U Playlist URL → paste the URL above
 ```
 
 **TiviMate / OTT Navigator / Televizo (Android)**
 ```
-Add Playlist → M3U URL → paste the raw file URL
-```
-
-**MPV**
-```bash
-mpv merged_playlist.m3u
+Add Playlist → M3U URL → paste the URL above
 ```
 
 ---
