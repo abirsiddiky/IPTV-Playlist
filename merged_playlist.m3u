@@ -342,8 +342,7 @@ http://198.195.239.50:8095/News24/index.m3u8
 http://198.195.239.50:8095/JalshaMovies/index.m3u8
 #EXTINF:-1 group-title="Other",ZEE BANGLA CHINEMA HD
 http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
-#EXTINF:-1 group-title="Other",SONY AATH
-http://198.195.239.50:8095/SonyAath/index.m3u8
+
 #EXTINF:-1 group-title="Other",STAR PLUS HD
 http://198.195.239.50:8095/StarPlus/index.m3u8
 #EXTINF:-1 group-title="Other",SONY TV HD
