@@ -14916,8 +14916,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="Relagion Channel",AL Sunnah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg" group-title="Kolkata Bangla",Sony Aath
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Relagion Channel",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 group-title="Relagion Channel",EWTN TV
