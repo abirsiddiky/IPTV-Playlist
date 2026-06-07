@@ -342,8 +342,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 http://198.195.239.50:8095/News24/index.m3u8
 #EXTINF:-1 group-title="Other",Jalsha Movies HD
 http://198.195.239.50:8095/JalshaMovies/index.m3u8
-#EXTINF:-1 group-title="Other",ZEE BANGLA CHINEMA HD
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/64428768187933.Y3JvcCw1OTQsNDY0LDMwOSwyMDc.png" group-title="Other" ,ZEE Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1 group-title="Other",STAR PLUS HD
 http://198.195.239.50:8095/StarPlus/index.m3u8
