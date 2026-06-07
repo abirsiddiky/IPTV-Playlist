@@ -2423,6 +2423,8 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg" group-title="Documentary",BBC Earth US
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1 ,Animal Planet HD
+https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QNL74Jo.png" group-title="Documentary",BBC Four
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n4FwCmT.png" group-title="Documentary",CNA Originals
