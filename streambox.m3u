@@ -224,11 +224,11 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Documentry" ,Discovery HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Documentary" ,Discovery HD
 http://198.195.239.50:8095/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg" group-title="Documentary",BBC Earth US
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIEjD-EmNgGMEvabqYLLUa5la3MYpg4JpeNGWxL-sjg&s=10" group-title="Documentry" ,Animal Planet HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIEjD-EmNgGMEvabqYLLUa5la3MYpg4JpeNGWxL-sjg&s=10" group-title="Documentary" ,Animal Planet HD
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
 
 
