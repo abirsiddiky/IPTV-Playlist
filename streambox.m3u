@@ -265,7 +265,8 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 
 
 
-
+#EXTINF:-1 ,tvg-logo="" group-title="FIFA" , GO Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 
 
 
