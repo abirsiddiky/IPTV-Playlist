@@ -265,7 +265,7 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 
 
 
-#EXTINF:-1 ,tvg-logo="" group-title="FIFA" , GO Live
+#EXTINF:-1 ,tvg-logo="https://www.golivetv.ca/wp-content/uploads/2021/01/img_logo-1024x323.png" group-title="FIFA" ,GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 
 
