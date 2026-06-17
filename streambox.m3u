@@ -216,7 +216,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="Bangla",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn4JFNV/20250529-071147.png" group-title="Bangla",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="Bangla",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
@@ -262,11 +262,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="FIFA",• Fox GT ² 🇬🇹
 http://200.115.120.1:8000/play/a017/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.golivetv.ca/wp-content/uploads/2021/01/img_logo-1024x323.png" group-title="FIFA" ,GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9zQc_vnEdi5A2JW8OBTfbBYdDYlyGykhSHCGjvc1v7NmEXgOFxXZARYZLnfAkudZ8A=w240-h480-rw" group-title="FIFA" ,SOCO Live
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781380041-0-0-adb5c4f9f04cfce924cf34723cd777cd
 
 
 
