@@ -254,8 +254,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781380041-0-0-adb5c4f9f04cfce924cf34723cd777cd
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="FIFA",PTV Sports
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
 
 
