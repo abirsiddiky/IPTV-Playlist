@@ -255,6 +255,14 @@ https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 5th Server
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_4.m3u8
 
+#EXTINF:-1 group-title="FIFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWBt0ABZCbvPKgXfe5PbhLYn5KRDOvK47gSZ-oaH39A&s=10", Koora City Live
+https://we.daydons.online/Japa2_720/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
