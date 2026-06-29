@@ -245,7 +245,15 @@ http://84.17.50.102/fox/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 2nd Server
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 3rd Server
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 4th Server
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 5th Server
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_4.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 2
