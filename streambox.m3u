@@ -68,7 +68,7 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779283760&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla",Mohona TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1779283762&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=017ac949515fd9b0181090287f362d2b
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Bangla",Maasranga TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1779283753&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d29aadd6d2d6f7a0a28fabc7830ae6e3
+http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="Bangla",NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779283761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbcba35ac711c3545a56b3580503ee00
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="Bangla",SA TV
