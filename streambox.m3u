@@ -21,8 +21,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="Bangla",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png" group-title="Bangla",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="Bangla",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg" group-title="Bangla",Star News
