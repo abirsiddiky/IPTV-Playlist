@@ -193,7 +193,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Documentary" ,Discovery HD
-http://198.195.239.50:8095/discovery/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=2c8ee71be8bca324c7695c06255bb0df4ef4efc8-161b0b59279082dc59bee57ac116fd64-1776169973-1776166373&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg" group-title="Documentary",BBC Earth US
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIEjD-EmNgGMEvabqYLLUa5la3MYpg4JpeNGWxL-sjg&s=10" group-title="Documentary" ,Animal Planet HD
