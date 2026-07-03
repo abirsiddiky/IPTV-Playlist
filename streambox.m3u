@@ -241,17 +241,6 @@ https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzbFaqTVGFCslKfASx5ZSSByUus0SQPJYgQ&s" group-title="FIFA" , Fox FHD
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
-#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 2nd Server
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 3rd Server
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 4th Server
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/07/28/images_d6ce912746f794656d087b55ef04100d_goplay_bios.png?w=256&q=75" group-title="FIFA",Bioscope+ 5th Server
-https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index_4.m3u8
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWBt0ABZCbvPKgXfe5PbhLYn5KRDOvK47gSZ-oaH39A&s=10", Koora City Live
 https://we.daydons.online/Japa2_720/index.m3u8
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", Now TV
@@ -285,7 +274,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
 
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_Toffee.svg/3840px-Logo_of_Toffee.svg.png", Toffee Live
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8
+https://cdn-tt.pages.dev/ch1.m3u8
 
 
 
