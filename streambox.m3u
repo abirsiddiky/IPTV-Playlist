@@ -213,7 +213,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="FIFA",CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/25/1/win-sports-logo-png_seeklogo-259337.png" group-title="FIFA",Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+http://181.78.71.71:18000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vhv.rs/dpng/d/399-3996331_directv-sports-latin-america-directv-sports-logo-png.png" group-title="FIFA",• Directv (1) 🇦🇷
 http://daleplay.vip/live/hghc4@3gf(n)!/kmgd56(e)3@400/50724.ts
@@ -225,21 +225,17 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://tavilatam.com/wp-content/uploads/2026/04/TAVI_Fox_Tigo-Sports.png" group-title="FIFA",• Fox GT ² 🇬🇹
 http://200.115.120.1:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.golivetv.ca/wp-content/uploads/2021/01/img_logo-1024x323.png" group-title="FIFA" ,GO Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9zQc_vnEdi5A2JW8OBTfbBYdDYlyGykhSHCGjvc1v7NmEXgOFxXZARYZLnfAkudZ8A=w240-h480-rw" group-title="FIFA" ,SOCO Live
 https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781380041-0-0-adb5c4f9f04cfce924cf34723cd777cd
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg", Bein Sports 1
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="FIFA",PTV Sports
-http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzbFaqTVGFCslKfASx5ZSSByUus0SQPJYgQ&s" group-title="FIFA" , Fox
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="FIFA",Bein Sports 2 Arabic
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 
-#EXTINF:-1 group-title="FIFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWBt0ABZCbvPKgXfe5PbhLYn5KRDOvK47gSZ-oaH39A&s=10", Koora City Live
-https://we.daydons.online/Japa2_720/index.m3u8
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", Now TV
 http://fastshare1.com/live/25711345/late8airline/745270.ts
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEncR6zqh7ATx-lvaTKkTbS9R5b51kgtm1AizErsi5GWR4Fv19Rk0Fz9q&s=10", Band Sports HD
