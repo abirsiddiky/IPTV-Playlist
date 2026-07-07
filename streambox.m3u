@@ -235,7 +235,6 @@ http://84.17.50.102/fox/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
 
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", Now TV
-#EXTVLCOPT:network-caching=1000
 http://fastshare1.com/live/25711345/late8airline/745270.ts
 #EXTINF:-1 group-title="FIFA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEncR6zqh7ATx-lvaTKkTbS9R5b51kgtm1AizErsi5GWR4Fv19Rk0Fz9q&s=10", Band Sports HD
 http://play.dnsrot.vip/live/vanessanook/vinr390x8y/36989.ts
