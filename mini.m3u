@@ -75,6 +75,8 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Star Jalsha HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Star Jalsha HD 2nd Server
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Ekushey TV
