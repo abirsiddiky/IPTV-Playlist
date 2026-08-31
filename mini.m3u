@@ -3,17 +3,17 @@
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",BTV Chattogram
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV Chattogram
 https://btv.hridoytv-channel.workers.dev/chittagong.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Sports",T Sports HD
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",ATN Bangla
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",ATN News
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",Boishakhi
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",Channel i
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="General",N TV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
