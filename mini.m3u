@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",BTV
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
-#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",BTV News
+#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
 #EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="Bangla",BTV Chattogram
 https://btv.hridoytv-channel.workers.dev/chittagong.m3u8
