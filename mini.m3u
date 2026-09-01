@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV News
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV Chattogram
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",BTV Chattogram
 https://btv.hridoytv-channel.workers.dev/chittagong.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Sports",T Sports HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",ATN Bangla
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",ATN News
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",Boishakhi
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Channel i
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",N TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",N TV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",RTV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",RTV
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Banglavision
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Jamuna
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Enter TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Ekattor HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",DBC News
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",SA TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",News 24
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Deepto
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Maasranga
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Maasranga
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Ananda
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Ananda
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Bangla Tv
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Bangla Tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Bijoy Tv
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Me Tv
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Iqra Bangla
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Duronto TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Duronto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",A Sports HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Star Sports 2
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",National Geographic HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",National Geographic HD
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Travel XP HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Travel XP HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Somoy TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Maasranga TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Maasranga TV
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Probashi TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Al Jazeera English HD (576p)
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Al Jazeera English HD (576p)
 http://stream.mcquack.net/131/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",ZEE Bangla
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",ZEE Bangla
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Bijoy Tv
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Bijoy Tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Ekushey TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Star Jalsha HD
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Deepto TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",Ekushey TV
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="General",BBC Bangla
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",BBC Bangla
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 tvg-url="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="General",History TV18
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="General",History TV18
 http://103.159.180.34:5001/live/1471.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",Channel i
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-url="https://streambox.s.gy/SUMROy" group-title="Bangla",Channel i
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",Channel 9 HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
