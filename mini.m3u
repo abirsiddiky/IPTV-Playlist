@@ -88,6 +88,8 @@ http://202.70.146.135:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",History TV18 Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",Nick
+http://103.165.93.31:8095/nick/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
