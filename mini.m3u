@@ -48,7 +48,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+http://103.165.93.31:8095/duranta/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Star Sports 2
@@ -95,8 +95,8 @@ http://103.165.93.31:8095/nick/index.m3u8
 http://103.165.93.31:8095/nickJr/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",Sonic
 http://103.165.93.31:8095/sonic/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",Cartoon Network
+http://103.165.93.31:8095/cartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
