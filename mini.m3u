@@ -104,7 +104,7 @@ http://103.165.93.31:8095/sonic/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",Cartoon Network
 http://103.165.93.31:8095/cartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",POGO
-https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Deepto TV
