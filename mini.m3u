@@ -75,7 +75,8 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Channel 24
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",Star Jalsha HD
