@@ -99,7 +99,7 @@ http://103.165.93.31:8095/colorsBangla/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",Nick
-http://103.165.93.31:8095/nick/index.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",NickJr
 http://103.165.93.31:8095/nickJr/index.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Kids",Sonic
@@ -116,7 +116,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",BBC Bangla
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="General",History TV18
+#EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="General",History TV18
 http://103.159.180.34:5001/live/1471.m3u8
 #EXTINF:-1 tvg-logo="https://streambox.s.gy/SUMROy" group-title="Bangla",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
